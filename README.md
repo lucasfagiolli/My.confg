@@ -15,9 +15,9 @@ Dessa forma, o script pode ajudar a resolver o erro **"Unable to negotiate with 
 
 . Abra um terminal e navegue até o diretório onde o script está localizado.
 
-. Der permissão ao arquivo : chmod +x my.sh
+. Der permissão ao arquivo : **chmod +x my.sh**
 
-. Execute o script com o seguinte comando: ./my.sh
+. Execute o script com o seguinte comando: **./my.sh**
 
  
 Verifique se o arquivo "my.conf" foi criado com sucesso no diretório "/etc/ssh/ssh_config.d".
