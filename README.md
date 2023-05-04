@@ -1,13 +1,13 @@
 # my.sh
 
-Este é um script em shell que cria um arquivo chamado **"my.conf"** no caminho "/etc/ssh/ssh_config.d" com as opções de chave de host e tipos de chave aceitos para conexões SSH.
+Este é um script em shell que cria um arquivo chamado **"my.conf"** no caminho  **"/etc/ssh/ssh_config.d"** com as opções de chave de host e tipos de chave aceitos para conexões SSH.
 
 ## Objetivo
 O objetivo deste script é lidar com a situação em que a conexão SSH falha devido a uma correspondência de tipo de chave de host inadequada.
 
 Ao criar o arquivo "my.conf" com as opções de chave de host e tipos de chave aceitos especificados, o script ajuda a garantir que o tipo de chave de host oferecido pelo servidor SSH corresponda aos tipos de chave aceitos pelo cliente SSH.
 
-Dessa forma, o script pode ajudar a resolver o erro "Unable to negotiate with [endereço IP] port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss", permitindo que a conexão SSH seja estabelecida com sucesso.
+Dessa forma, o script pode ajudar a resolver o erro **"Unable to negotiate with [endereço IP] port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss", permitindo que a conexão SSH seja estabelecida com sucesso.**
 
 ## Como usar
 
