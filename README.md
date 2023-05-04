@@ -9,7 +9,7 @@ Ao criar o arquivo "my.conf" com as opções de chave de host e tipos de chave a
 
 Dessa forma, o script pode ajudar a resolver o erro "Unable to negotiate with [endereço IP] port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss", permitindo que a conexão SSH seja estabelecida com sucesso.
 
-#Como usar
+##Como usar
 
 . Faça o download ou clone este repositório.
 . Abra um terminal e navegue até o diretório onde o script está localizado.
