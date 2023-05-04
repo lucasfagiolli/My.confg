@@ -12,8 +12,11 @@ Dessa forma, o script pode ajudar a resolver o erro **"Unable to negotiate with 
 ## Como usar
 
 . Faça o download ou clone este repositório.
+
 . Abra um terminal e navegue até o diretório onde o script está localizado.
+
 . Der permissão ao arquivo : chmod +x my.sh
+
 . Execute o script com o seguinte comando: ./my.sh
 
  
